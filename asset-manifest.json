@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/ivargas1030/reactportfolio/static/css/main.374a6b7f.chunk.css",
+    "main.js": "/ivargas1030/reactportfolio/static/js/main.736034af.chunk.js",
+    "main.js.map": "/ivargas1030/reactportfolio/static/js/main.736034af.chunk.js.map",
+    "runtime-main.js": "/ivargas1030/reactportfolio/static/js/runtime-main.e5b9a50d.js",
+    "runtime-main.js.map": "/ivargas1030/reactportfolio/static/js/runtime-main.e5b9a50d.js.map",
+    "static/js/2.e9963974.chunk.js": "/ivargas1030/reactportfolio/static/js/2.e9963974.chunk.js",
+    "static/js/2.e9963974.chunk.js.map": "/ivargas1030/reactportfolio/static/js/2.e9963974.chunk.js.map",
+    "index.html": "/ivargas1030/reactportfolio/index.html",
+    "precache-manifest.fe6ee1b54346888f595dc8bf5bd73496.js": "/ivargas1030/reactportfolio/precache-manifest.fe6ee1b54346888f595dc8bf5bd73496.js",
+    "service-worker.js": "/ivargas1030/reactportfolio/service-worker.js",
+    "static/css/main.374a6b7f.chunk.css.map": "/ivargas1030/reactportfolio/static/css/main.374a6b7f.chunk.css.map",
+    "static/js/2.e9963974.chunk.js.LICENSE.txt": "/ivargas1030/reactportfolio/static/js/2.e9963974.chunk.js.LICENSE.txt",
+    "static/media/EmployeeTerminal.JPG": "/ivargas1030/reactportfolio/static/media/EmployeeTerminal.6416bbfa.JPG",
+    "static/media/EmployeeTracker.JPG": "/ivargas1030/reactportfolio/static/media/EmployeeTracker.bf6950e5.JPG",
+    "static/media/LinkLibrary.JPG": "/ivargas1030/reactportfolio/static/media/LinkLibrary.69c11a91.JPG",
+    "static/media/MediaBuffet.JPG": "/ivargas1030/reactportfolio/static/media/MediaBuffet.d1d04066.JPG",
+    "static/media/PlannerProject.JPG": "/ivargas1030/reactportfolio/static/media/PlannerProject.97b7bfd1.JPG",
+    "static/media/StarHeadshot.JPG": "/ivargas1030/reactportfolio/static/media/StarHeadshot.da604740.JPG",
+    "static/media/style.css": "/ivargas1030/reactportfolio/static/media/cherryblossoms.7f0b2821.jpg",
+    "static/media/cute_taco.png": "/ivargas1030/reactportfolio/static/media/cute_taco.f835e1be.png",
+    "static/media/index.css": "/ivargas1030/reactportfolio/static/media/pink_rice.5f26da62.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5b9a50d.js",
+    "static/js/2.e9963974.chunk.js",
+    "static/css/main.374a6b7f.chunk.css",
+    "static/js/main.736034af.chunk.js"
+  ]
+}
